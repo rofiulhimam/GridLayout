@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/a"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="A"/>
+
+    <TextView
+        android:id="@+id/b"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="B"/>
+
+    <TextView
+        android:id="@+id/c"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="C"/>
+
+    <TextView
+        android:id="@+id/d"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="D"/>
+
+    <TextView
+        android:id="@+id/e"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="E"/>
+
+    <TextView
+        android:id="@+id/f"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="F"/>
+
+    <TextView
+        android:id="@+id/g"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="G"/>
+
+    <TextView
+        android:id="@+id/h"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="H"/>
+
+    <TextView
+        android:id="@+id/i"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="I"/>
+
+    <TextView
+        android:id="@+id/j"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="J"/>
+
+    <TextView
+        android:id="@+id/k"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="K"/>
+
+    <TextView
+        android:id="@+id/l"
+        android:layout_gravity="left|top"
+        android:padding="30dp"
+        android:text="L"/>
+
+</GridLayout>
